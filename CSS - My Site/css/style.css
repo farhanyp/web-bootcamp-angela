@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+.top{
+    background-color: brown;
+}
+
+.middle{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+}
+
+.bottom{
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+}
