@@ -1,13 +1,17 @@
 body{
     margin: 0;
+    text-align: center;
 }
 
 h1{
     margin: 0;
 }
 
+
 .top{
-    background-color: brown;
+    padding-top: 100px;
+    background-color:#E4f9f5;
+    position: relative;
 }
 
 .middle{
@@ -20,4 +24,16 @@ h1{
     width: 200px;
     height: 200px;
     background-color: darkcyan;
+}
+
+.top-cloud{
+    top: 30px;
+    right: 300px;
+    position: absolute;
+}
+
+.bottom-cloud{
+    left: 300px;
+bottom: 300px;
+    position: absolute;
 }
